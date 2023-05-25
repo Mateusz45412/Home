@@ -1,6 +1,9 @@
-def print_triangle(n):
+def print_triangle(n, total):
     for size in range(1, n+1,2): #repeats
-        print(("*"*size).center(n))
+        print(("*"*size).center(total))
 
-for i in range(3,8+1, 2):
-    print_triangle(i)
+def s(size):
+    for i in range(3,size+1, 2):
+        print_triangle(i, size)
+
+s(7)
