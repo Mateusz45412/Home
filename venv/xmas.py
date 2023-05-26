@@ -6,4 +6,4 @@ def s(size):
     for i in range(3,size+1, 2):
         print_triangle(i, size)
 
-s(7)
+s(8)
