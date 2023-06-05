@@ -4,7 +4,7 @@
 >Krótkie ćwiczenie do zrozumienia funkcji w Pythonie.
 
 ## Table of Contents [Spis treści]
-* [General Information-Informacje ogólne](#general Information-Informacje ogólne)
+* [General Information-Informacje ogólne](#general-information-informacje-ogólne)
 * [Technologies Used - Zastosowane technologie](#technologies-used)
 * [Screenshots - Zrzuty ekranu](#screenshots)
 * [Setup - Ustawienia](#setup)
