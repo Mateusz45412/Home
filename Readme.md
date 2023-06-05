@@ -12,9 +12,8 @@
 * [Usage](#usage)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
-* [Acknowledgements](#acknowledgements)
+* [Acknowledgements ](#acknowledgements)
 * [Contact](#contact)
-<!-- * [License](#license) -->
 
 
 ## General Information [Informacje ogólne]
@@ -39,16 +38,18 @@ What are the project requirements/dependencies? Where are they listed? A require
 Proceed to describe how to install / setup one's local environment / get started with the project.
 
 
-## Usage
+## Usage [Stosowanie]
 How does one go about using it?
 Provide various use cases and code examples here.
+Jak się go używa?
+Podaj tutaj różne przypadki użycia i przykłady kodu.
 
 `write-your-code-here`
 
 
-## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
-
+## Project Status [Stan Projektu]
+- Project is in progress
+- Projekt jest: w toku
 
 ## Room for Improvement
 Include areas you believe need improvement / could be improved. Also add TODOs for future development.
@@ -62,11 +63,9 @@ To do:
 - Feature to be added 2
 
 
-## Acknowledgements
+## Acknowledgements [Podziękowania]
 Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
+- This project was based on the course "Python from scratch"
 
 
 ## Contact
