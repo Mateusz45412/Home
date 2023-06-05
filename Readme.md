@@ -6,15 +6,12 @@
 ## Table of Contents [Spis treści]
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Features](#features)
 * [Screenshots](#screenshots)
 * [Setup](#setup)
 * [Usage](#usage)
 * [Project Status](#project-status)
-* [Room for Improvement](#room-for-improvement)
 * [Acknowledgements ](#acknowledgements)
 * [Contact](#contact)
-
 
 ## General Information [Informacje ogólne]
 
@@ -30,7 +27,8 @@
 ## Screenshots [Zrzuty ekranu]
 ![Example screenshot](./img/screenshot.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
-
+- <!-
+- Jeśli masz zrzuty ekranu, którymi chcesz się podzielić, umieść je tutaj. -->
 
 ## Setup [Ustawienia]
 What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
@@ -51,29 +49,13 @@ Podaj tutaj różne przypadki użycia i przykłady kodu.
 - Project is in progress
 - Projekt jest: w toku
 
-## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
-
-Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
-
-To do:
-- Feature to be added 1
-- Feature to be added 2
-
 
 ## Acknowledgements [Podziękowania]
 Give credit here.
 - This project was based on the course "Python from scratch"
 
 
-## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+## Contact [kontakt]
+Created by  Máté  - feel free to contact me!
 
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
+e-mail: mateusz45412@gmail.com
