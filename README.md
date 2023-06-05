@@ -11,7 +11,7 @@
 * [Usage - Zastosowanie](#usage)
 * [Project Status - Stan projektu](#project-status)
 * [Acknowledgements - Podziękowania ](#acknowledgements)
-* [Contact- kontakt](#contact)
+* [Contact-kontakt](#contact)
 
 ## General Information - Informacje ogólne
 
@@ -56,7 +56,7 @@ Podaj tutaj różne przypadki użycia i przykłady kodu.
 - Projekt ten powstał w oparciu o kurs „Python od podstaw”
 
 
-## Contact - kontakt
+## Contact-kontakt
 - Created by Máté - feel free to contact me!
 - Utworzony przez Máté - zapraszam do kontaktu!
 
