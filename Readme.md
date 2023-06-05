@@ -1,8 +1,9 @@
-# Project Name
-> Outline a brief description of your project.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+# Christmas Tree
+>A short exercise to understand function in Python.
 
-## Table of Contents
+>Krótkie ćwiczenie do zrozumienia funkcji w Pythonie.
+
+## Table of Contents [Spis treści]
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Features](#features)
@@ -16,7 +17,7 @@
 <!-- * [License](#license) -->
 
 
-## General Information
+## General Information [Informacje ogólne]
 - Provide general information about your project here.
 - What problem does it (intend to) solve?
 - What is the purpose of your project?
