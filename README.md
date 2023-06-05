@@ -48,7 +48,7 @@ Podaj tutaj różne przypadki użycia i przykłady kodu.
 
 ## Project Status [Stan Projektu]
 - Project is in progress
-- Projekt jest: w toku
+- Projekt jest w toku
 
 
 ## Acknowledgements [Podziękowania]
