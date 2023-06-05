@@ -56,7 +56,7 @@ Podaj tutaj różne przypadki użycia i przykłady kodu.
 - Projekt ten powstał w oparciu o kurs „Python od podstaw”
 
 
-## Contact [kontakt]
+## Contact
 - Created by Máté - feel free to contact me!
 - Utworzony przez Máté - zapraszam do kontaktu!
 
