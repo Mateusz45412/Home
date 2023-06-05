@@ -21,7 +21,8 @@
 ## Technologies Used [Zastosowane technologie]
 - The program is written in "Pycharm Community Edition"
 - Program napisany jest w "Pycharm Community Edition""
-- The program uses module "COLORAMA" abd is mainly based on function.
+- The program uses module "COLORAMA" abd is mainly based on functions.
+- Program wykorzystuje moduł "COLORAMA" i opiera się głównie na funkcjach.
 
 
 ## Screenshots [Zrzuty ekranu]
