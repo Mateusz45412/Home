@@ -1,4 +1,4 @@
-# Christmas Tree
+# Christmas Tree [Drzewko Świąteczne]
 >A short exercise to understand function in Python.
 
 >Krótkie ćwiczenie do zrozumienia funkcji w Pythonie.
@@ -18,32 +18,22 @@
 
 
 ## General Information [Informacje ogólne]
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+
+- The aim of the project is to draw a Christmas tree from any character entered from the keyboard.
+- Celem projektu jest narysowanie choinki z wprowadzonego dowolnego znaku z klawiatury.
+
+## Technologies Used [Zastosowane technologie]
+- The program is written in "Pycharm Community Edition"
+- Program napisany jest w "Pycharm Community Edition""
+- The program uses module "COLORAMA" abd is mainly based on function.
 
 
-## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
-
-
-## Features
-List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
-
-
-## Screenshots
+## Screenshots [Zrzuty ekranu]
 ![Example screenshot](./img/screenshot.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
-## Setup
+## Setup [Ustawienia]
 What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
 
 Proceed to describe how to install / setup one's local environment / get started with the project.
