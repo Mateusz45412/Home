@@ -58,6 +58,7 @@ Podaj tutaj różne przypadki użycia i przykłady kodu.
 
 ## Contact [kontakt]
 Created by Máté - feel free to contact me!
+
 Utworzony przez Máté - zapraszam do kontaktu!
 
 e-mail: mateusz45412@gmail.com
