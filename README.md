@@ -4,7 +4,7 @@
 >Krótkie ćwiczenie do zrozumienia funkcji w Pythonie.
 
 ## Table of Contents [Spis treści]
-* [General Info - Informacje ogólne](#general-information)
+* [eneral Information-Informacje ogólne](#general-information)
 * [Technologies Used - Zastosowane technologie](#technologies-used)
 * [Screenshots - Zrzuty ekranu](#screenshots)
 * [Setup - Ustawienia](#setup)
@@ -13,7 +13,7 @@
 * [Acknowledgements - Podziękowania ](#acknowledgements)
 * [Contact-kontakt](#contact)
 
-## General Information - Informacje ogólne
+## General Information-Informacje ogólne
 
 - The aim of the project is to draw a Christmas tree from any character entered from the keyboard.
 - Celem projektu jest narysowanie choinki z wprowadzonego dowolnego znaku z klawiatury.
