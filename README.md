@@ -52,11 +52,12 @@ Podaj tutaj różne przypadki użycia i przykłady kodu.
 
 
 ## Acknowledgements [Podziękowania]
-Give credit here.
 - This project was based on the course "Python from scratch"
+- Projekt ten powstał w oparciu o kurs „Python od podstaw”
 
 
 ## Contact [kontakt]
-Created by  Máté  - feel free to contact me!
+Created by Máté - feel free to contact me!
+Utworzony przez Máté - zapraszam do kontaktu!
 
 e-mail: mateusz45412@gmail.com
