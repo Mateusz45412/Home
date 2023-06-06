@@ -19,8 +19,8 @@
 - Celem projektu jest narysowanie choinki z wprowadzonego dowolnego znaku z klawiatury.
 
 ## Technologies Used - Zastosowane technologie
-- The program is written in "Pycharm Community Edition"
-- Program napisany jest w "Pycharm Community Edition""
+- The program is written in "Pycharm Community Edition" on system Linux.
+- Program napisany jest w "Pycharm Community Edition" na systemie Linux.
 - The program uses module "COLORAMA" abd is mainly based on functions.
 - Program wykorzystuje moduł "COLORAMA" i opiera się głównie na funkcjach.
 
@@ -32,6 +32,8 @@
 - Jeśli masz zrzuty ekranu, którymi chcesz się podzielić, umieść je tutaj. -->
 
 ## Setup - Ustawienia
+-Aby korzystać z modułu colorama musisz go zainstalować.
+sudo apt install python3-pip
 What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
 
 Proceed to describe how to install / setup one's local environment / get started with the project.
