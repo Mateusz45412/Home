@@ -32,7 +32,12 @@
 - Jeśli masz zrzuty ekranu, którymi chcesz się podzielić, umieść je tutaj. -->
 
 ## Setup - Ustawienia
-Aby korzystać z modułu colorama musisz go zainstalować wpisując w terminalu Pycharm
+- Środowisko lokalne na którym pracuje posiada zainstalowany moduł colorama.
+- The local environment in which I work has the colorama module installed
+- To install the colorama module, enter the following commands into the console in Pycharm
+1. `sudo apt install python3-pip` 
+2. `pip install colorama`
+- W  celu instalacji modułu colorama wprowadź następujące komendy do konsoli w Pycharm:
 1. `sudo apt install python3-pip` 
 2. `pip install colorama`
 
