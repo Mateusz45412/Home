@@ -4,28 +4,28 @@
 >Krótkie ćwiczenie do zrozumienia funkcji w Pythonie.
 
 ## Table of Contents [Spis treści]
-* [General Information-Informacje ogólne](#general-information-informacje-ogólne)
-* [Technologies Used - Zastosowane technologie](#technologies-used)
-* [Screenshots - Zrzuty ekranu](#screenshots)
-* [Setup - Ustawienia](#setup)
-* [Usage - Zastosowanie](#usage)
-* [Project Status - Stan projektu](#project-status)
-* [Acknowledgements - Podziękowania ](#acknowledgements)
-* [Contact-kontakt](#contact)
+* [General Information-Informacje ogólne](#general-information---informacje-ogólne)
+* [Technologies Used-Zastosowane technologie](#technologies-used---zastosowane-technologie)
+* [Screenshots - Zrzuty ekranu](#screenshots---zrzuty-ekranu)
+* [Setup - Ustawienia](#setup---ustawienia)
+* [Usage - Zastosowanie](#usage---zastosowanie)
+* [Project Status - Stan projektu](#project-status---stan-projektu)
+* [Acknowledgements - Podziękowania ](#acknowledgements---podziękowania)
+* [Contact-kontakt](#contact---kontakt)
 
-## General Information-Informacje ogólne
+## General Information - Informacje ogólne
 
 - The aim of the project is to draw a Christmas tree from any character entered from the keyboard.
 - Celem projektu jest narysowanie choinki z wprowadzonego dowolnego znaku z klawiatury.
 
-## Technologies Used -Zastosowane technologie
+## Technologies Used - Zastosowane technologie
 - The program is written in "Pycharm Community Edition"
 - Program napisany jest w "Pycharm Community Edition""
 - The program uses module "COLORAMA" abd is mainly based on functions.
 - Program wykorzystuje moduł "COLORAMA" i opiera się głównie na funkcjach.
 
 
-## Screenshots -Zrzuty ekranu
+## Screenshots - Zrzuty ekranu
 ![Example screenshot](./img/screenshot.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 - <!-
@@ -56,7 +56,7 @@ Podaj tutaj różne przypadki użycia i przykłady kodu.
 - Projekt ten powstał w oparciu o kurs „Python od podstaw”
 
 
-## Contact-kontakt
+## Contact - kontakt
 - Created by Máté - feel free to contact me!
 - Utworzony przez Máté - zapraszam do kontaktu!
 
