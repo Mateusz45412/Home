@@ -3,12 +3,13 @@ from colorama import Fore
 
 sign = input(Fore.LIGHTBLUE_EX + "Wprowadź dowolny znak: ")
 
-def print_triangle(n, total):
+def print_segment(n, total_width):
     for size in range(1, n+1, 2): # repeats
-        print((Fore.LIGHTGREEN_EX + sign * size).center(total))
+        print((Fore.LIGHTGREEN_EX + sign * size).center(total-total_width))
 
-# def s(size):
+# def tree(size):
 #     for i in range(3, size+1, 2):
 #         print_triangle(i, size)
 #
 # s(7)
+print_segment(20, 24)
