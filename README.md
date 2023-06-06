@@ -32,13 +32,11 @@
 - Jeśli masz zrzuty ekranu, którymi chcesz się podzielić, umieść je tutaj. -->
 
 ## Setup - Ustawienia
--Aby korzystać z modułu colorama musisz go zainstalować.
-sudo apt install python3-pip
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
+Aby korzystać z modułu colorama musisz go zainstalować wpisując w terminalu Pycharm
+1. `sudo apt install python3-pip` 
+2. `pip install colorama`
 
-Proceed to describe how to install / setup one's local environment / get started with the project.
-
-
+ 
 ## Usage - Zastosowanie
 How does one go about using it?
 Provide various use cases and code examples here.
